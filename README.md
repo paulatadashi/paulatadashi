@@ -1,7 +1,7 @@
 ## Olá, sou a Paula Tadashi aprendendo programação pela milésima vez!
 <div align="center">
   <a href="https://github.com/paulatadashi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulatadashi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=paulatadashi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatadashi&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
