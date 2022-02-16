@@ -5,11 +5,11 @@
   <img height="139em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatadashi&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/8f33a93081e2d26e4dbdd503aabad339.gif"  border="0" alt="https://picasion.com/" /></a><br /><a 
-  
-<img align="right" alt ="Paula-kwai" scr= "https://media.giphy.com/media/CU78SFLdBi5do56jS4/giphy.gif">
-   ##
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt ="Paula-kwai" scr= "https://media.giphy.com/media/CU78SFLdBi5do56jS4/giphy.gif">
+</div>     
+    
+  ##
  
 <div> 
   <a href="https://instagram.com/paulatadashi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
