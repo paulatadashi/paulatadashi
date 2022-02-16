@@ -8,6 +8,10 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>     
     
+  <img align="right" alt="Rezgif.com-gif-maker.gif" height="150" style="border-radius:50px;" 
+  src="https://media.discordapp.net/attachments/943326514018132001/943326571928907886/ezgif.com-gif-maker.gif">
+  </div>     
+  
   ##
  
 <div> 
