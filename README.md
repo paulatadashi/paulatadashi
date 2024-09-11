@@ -7,7 +7,12 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Paula+Tadashi;I'm+25+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+  <div align="center">
+<img src="ezgif.com-gif-maker.gif" width="200px" />
+</div>
 
     
 </div>    
@@ -18,9 +23,7 @@
 
 ##
 
-  <div align="right">
-<img src="ezgif.com-gif-maker.gif" width="200px" />
-</div>
+
 
  
 <div> 
