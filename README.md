@@ -16,10 +16,10 @@
   src="https://media.discordapp.net/attachments/943326514018132001/943326571928907886/ezgif.com-gif-maker.gif">
   </div>     
 
-  ##
+##
 
   <div align="right">
-<img src="https://github.com/user-attachments/assets/8661463b-2a84-4043-a6da-03d88709dca2" width="200px" />
+<img src="ezgif.com-gif-maker.gif" width="200px" />
 </div>
 
  
@@ -27,6 +27,8 @@
   
   <a href="https://www.linkedin.com/in/paula-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:paulagabrielalopes2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/paulatadashi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.twitch.tv/paulatadashi" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
   
    ![Snake animation](https://github.com/paulatadashi/paulatadashi/blob/output/github-contribution-grid-snake.svg)
