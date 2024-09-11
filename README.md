@@ -5,14 +5,21 @@
   <img height="139em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatadashi&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>     
+  <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Paula+Tadashi;I'm+25+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+    
+</div>    
     
   <img align="right" alt="Rezgif.com-gif-maker.gif" height="150" style="border-radius:50px;" 
   src="https://media.discordapp.net/attachments/943326514018132001/943326571928907886/ezgif.com-gif-maker.gif">
   </div>     
   
-  ##
+  <div align="right">
+<img src="https://github.com/user-attachments/assets/8661463b-2a84-4043-a6da-03d88709dca2" width="200px" />
+</div>
+  
  
 <div> 
   
@@ -23,3 +30,4 @@
    ![Snake animation](https://github.com/paulatadashi/paulatadashi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
